@@ -13,11 +13,12 @@ public class Demo {
 		}
 
 	public static void main(String[] args) {
-//		Level mylevel = Level.High;
-//System.out.println(mylevel);
-		for(Level muv:Level.values()) {
-			System.out.println(muv);
-		}
+		Level mylevel = Level.High;
+System.out.println(mylevel);
+//		for(Level muv:Level.values()) {
+//			System.out.println(muv);
+//		}
+		
 	}
 
 }
